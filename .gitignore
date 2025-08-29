@@ -1,0 +1,10 @@
+# ===== DATA FILES =====
+/data/
+
+# ===== JUPYTER NOTEBOOK =====
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ===== OPERATING SYSTEM =====
+Thumbs.db
+Desktop.ini

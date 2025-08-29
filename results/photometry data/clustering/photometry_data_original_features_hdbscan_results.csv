@@ -1,0 +1,2 @@
+combination_id,min_cluster_size,min_samples,cluster_selection_epsilon,n_clusters,n_noise,noise_fraction
+1,5,5,2.0,2,15496,0.61984
